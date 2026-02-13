@@ -15,9 +15,7 @@ A robust, full-stack Python application that automatically generates audio mashu
 4.  [Usage Guide](#-usage-guide)
     * [Program 1: CLI Script](#1-program-1-cli-script)
     * [Program 2: Web Service](#2-program-2-web-service)
-5.  [Results & Analysis](#-results--analysis)
-6.  [Project Structure](#-project-structure)
-7.  [License](#-license)
+5.  [Project Structure](#-project-structure)
 
 ---
 
